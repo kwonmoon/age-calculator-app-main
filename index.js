@@ -1,4 +1,4 @@
-const submit = document.querySelector(".submit-btn");
+const submit = document.querySelector(".calc-age-btn");
 const currentDate = new Date();
 const currentYear = currentDate.getFullYear();
 
